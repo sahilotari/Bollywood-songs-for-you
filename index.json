@@ -654,5 +654,15 @@
         "singer": ["Abhijeet Bhattacharya, Sowmya Raoh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
+    },
+{
+        "id": 56,
+        "name": "Main koi aisa geet gaoon",
+        "lyrics": "https://gaana.com/lyrics/main-koi-aisa-geet-gaoon-2",
+        "album": "Venus Movies",
+        "Duration":"5 min 17 sec",
+        "singer": ["Abhijeet Bhattacharya, Alka Yagnik "],
+        "genre": ["Romantic","Filmy"],
+        "link": "https://www.youtube.com/watch?v=3uxe_dAKjrM"
     }
 ]
